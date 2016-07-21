@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Tarea Contactos</string>
+    <string name="txt_btn_siguiente">Siguiente</string>
+    <string name="txt_nombre">Nombre completo</string>
+    <string name="txt_fecha">Fecha Nacimiento</string>
+    <string name="btn_fecha">Fecha</string>
+    <string name="txt_telefono">Teléfono</string>
+    <string name="txt_email">Email</string>
+    <string name="txt_descripcion">Descripción Contacto</string>
+    
+    <!-- Pantalla confirmar datos -->
+    
+    <string name="txt_titulo">Confirmar Datos</string>
+    <string name="txt_nombre_conf">Nombre:  </string>
+    <string name="txt_nombre_dato">Juan Carlos Morales Alpizar</string>
+    <string name="txt_fecha_conf">Fecha de Nacimiento:  </string>
+    <string name="txt_fecha_dato">20/02/1979</string>
+    <string name="txt_telefono_conf">Teléfono:  </string>
+    <string name="txt_telefono_dato">5555544343</string>
+    <string name="txt_email_conf"> Email:  </string>
+    <string name="txt_email_dato">juan@gmail.com</string>
+    <string name="txt_descripcion_conf">Descripción Contacto: </string>
+    <string name="txt_descripcion_dato">Desarrolador de software a buen precio!!</string>
+    <string name="txt_btn_editar">Editar</string>
+
+    <!--   Parametros  -->
+    <string name="pnombre">Nombre</string>
+    <string name="pfecha">Fecha</string>
+    <string name="ptelefono">Telefono</string>
+    <string name="pemail">Email</string>
+    <string name="pdescripcion">Descripcion</string>
+
+
+</resources>
